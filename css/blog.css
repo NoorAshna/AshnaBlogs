@@ -1,0 +1,20 @@
+@media screen and (max-width: 1200px) {
+
+    .blog-post-content p{
+        font-size: 16px; 
+    }  
+    .max-width-2 {
+        max-width: 85%;
+    }
+    .heaven{
+        font-size: 3.3vh;
+        font-weight: bolder;
+    }
+    .line-height2{
+        line-height: 1.8em;
+        word-spacing: 0.1em;
+        /* font-size: 0.5em; */
+        
+        
+      }
+}

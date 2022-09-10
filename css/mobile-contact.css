@@ -1,0 +1,14 @@
+@media screen and (max-width: 1200px) {
+.form-svg{
+    display: none;
+}
+.center h2{
+    font-size: 3.2vh;
+}
+.form-box input, textarea {
+    width: 70vw;
+}
+.center{
+    margin-left: 8px;
+}
+}
